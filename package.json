@@ -1,0 +1,25 @@
+{
+  "version": "0.1.0",
+  "name": "Ticket Scraper",
+  "description": "",
+  "license": "License Commercial",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.2.0",
+    "node-html-parser": "^6.1.5",
+    "open": "^7.0.3",
+    "qs": "^6.0.0"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "prettier": {
+    "printWidth": 200
+  }
+}
